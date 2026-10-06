@@ -54,4 +54,6 @@ Dan menu yang terakhir adalah Logout, Program selesai.
 
 C. Penjelasan Flowchart
 
+<img width="1239" height="1262" alt="Minpro 2" src="https://github.com/user-attachments/assets/cddfe969-5951-4495-9bb9-8408f8b10a7c" />
+
 Flowchart ini menggambarkan alur Sistem Pendataan Atlet Judo yang dimulai dari proses login menggunakan username dan password. Sistem memberikan tiga kesempatan login. Setelah login berhasil, sistem mengecek role pengguna. Jika pengguna merupakan admin, maka dapat menambah, melihat, mengubah, dan menghapus data atlet. Sedangkan user hanya dapat melihat data atlet. Setiap proses input memiliki validasi untuk memastikan data yang dimasukkan sesuai. Setelah selesai menggunakan sistem, pengguna dapat melakukan logout dan kembali ke halaman login.
